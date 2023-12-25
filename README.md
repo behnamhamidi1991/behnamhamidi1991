@@ -1,4 +1,4 @@
-# 💫 Welcome to my github page 
+# 💫 Welcome to my github page  
 ><img src="https://i.ibb.co/WvtYW7w/icon.png" alt="icon" border="0">
 My name's Behnam and I'm a passionate frontend developer<br>I'm currently working as a freelancer<br><br>Let me tell you a little bit more about me:<br>I work as a frontend developer, and I’ve been working as a freelancer since 2022. I did a few projects in this field and also gained experience working with different teams. I’m always open to learn new technologies and I’m ready to face any challenges in the process of work and learning. I’ve got also ample ability in teamwork and always worked as an active team member. I also like teaching what I know; so it’s easy for me to support my teammates and teach them if they need help.<br>
 
