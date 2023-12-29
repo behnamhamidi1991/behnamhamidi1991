@@ -3,7 +3,9 @@
 
 Take a look at some of my projects:
 - [Portfolio](https://portfolio-sepia-three-80.vercel.app/)
-
+  ###### A simple portfolio next.js (v.14) with routing.
+- [Course Selling React](https://smarterdev.vercel.app/)
+  ###### It's a simple React.js course selling website. It contains Blog section, Cart and searchBar. 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100081294337315) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/behnamhamidi688) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Behnam365857187) 
