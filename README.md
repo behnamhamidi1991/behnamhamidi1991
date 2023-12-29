@@ -1,6 +1,8 @@
 ### ABOUT ME
 I work as a frontend developer, and I’ve been working as a freelancer since 2022. I did a few projects in this field and also gained experience working with different teams. I’m always open to learn new technologies and I’m ready to face any challenges in the process of work and learning. I’ve got also ample ability in teamwork and always worked as an active team member. I also like teaching what I know; so it’s easy for me to support my teammates and teach them if they need help. What is for me the most important is the discipline, time management and efficient work.<br>
 
+[Portfolio]([https://website-name.com](https://portfolio-sepia-three-80.vercel.app/))
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100081294337315) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/behnamhamidi688) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Behnam365857187) 
