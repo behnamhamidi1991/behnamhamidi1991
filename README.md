@@ -9,7 +9,7 @@
 
 Take a look at some of my projects:
 - [Portfolio](https://portfolio-sepia-three-80.vercel.app/)
-######     A simple portfolio next.js (v.14) with routing.
+###### A simple portfolio next.js (v.14) with routing.
 - [Course Selling React](https://smarterdev.vercel.app/)
 ######     It's a simple React.js course selling website. It contains Blog section, Cart and searchBar.
 -  [Todo App](https://todo2-sage.vercel.app/)
