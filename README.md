@@ -3,7 +3,7 @@ I work as a frontend developer, and I’ve been working as a freelancer since 20
 
 Take a look at some of my projects:
 
-<a href="https://portfolio-sepia-three-80.vercel.app/" style="color: black; background: blue">custom link</a>
+<a href="https://portfolio-sepia-three-80.vercel.app/" style="color: black;">custom link</a>
 
 
 ## 🌐 Socials:
