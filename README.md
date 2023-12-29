@@ -3,7 +3,8 @@ I work as a frontend developer, and I’ve been working as a freelancer since 20
 
 Take a look at some of my projects:
 [Portfolio](https://portfolio-sepia-three-80.vercel.app/)
-<span style="color: #FF69B4;">Why did the tomato turn red?</span>
+<a href="https://portfolio-sepia-three-80.vercel.app/" style="color: black; background: blue">custom link</a>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100081294337315) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/behnamhamidi688) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Behnam365857187) 
