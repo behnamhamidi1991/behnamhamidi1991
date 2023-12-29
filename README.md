@@ -13,7 +13,7 @@ Take a look at some of my projects:
 - [Course Selling React](https://smarterdev.vercel.app/)
   ###### It's a simple React.js course selling website. It contains Blog section, Cart and searchBar.
 -  [Todo App](https://todo2-sage.vercel.app/)
-  ###### This simple todo app is made by React.js + contextApi. Using the localStorage, the info you add doesn't go away after you refresh. You can add and delete the tasks.
+        ###### This simple todo app is made by React.js + contextApi. Using the localStorage, the info you add doesn't go away after you refresh. You can add and delete the tasks.
 
 
 # 📊 GitHub Stats:
