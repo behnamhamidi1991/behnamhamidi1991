@@ -16,6 +16,10 @@ Take a look at some of my projects:
 ######     This simple todo app is made by React.js + contextApi. Using the localStorage, the info you add doesn't go away after you refresh. You can add and delete the tasks.
 - [Travel Website](https://behnamhamidi1991.github.io/travel/)
 ###### This is a simple html/css/js mini-project. This website has a login modal, is fully mobile responsive, has a greate and functional hamburger menu and the dark mode which is one of the most famous features is also added to this project. you can take a look at the project using the link above.
+- [Fitness App](https://fitnessapp-wine.vercel.app/)
+###### This is gym website with React + Typescript in order to see some offers, courses and so on. For styling I used tailwindcss.
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=behnamhamidi1991&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
