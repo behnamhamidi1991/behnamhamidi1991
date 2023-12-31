@@ -10,6 +10,8 @@
 Take a look at some of my projects:
 - [Portfolio](https://portfolio2-nu-opal.vercel.app/)
 ###### A simple portfolio next.js (v.14) with routing.
+- [Admin Dashboard UI](https://admin-dashboard-vert-tau.vercel.app/)
+###### React.js admin dashboard UI using Typescript.
 - [Course Selling React](https://smarterdev.vercel.app/)
 ######     It's a simple React.js course selling website. It contains Blog section, Cart and searchBar.
 -  [Todo App](https://todo2-sage.vercel.app/)
