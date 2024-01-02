@@ -10,6 +10,8 @@
 Take a look at some of my projects:
 - [Portfolio](https://portfolio2-nu-opal.vercel.app/)
 ###### A simple portfolio next.js (v.14) with routing.
+- [Booking Vacation](https://booking-theta-two.vercel.app/)
+###### This React Website is made with SCSS. It's fully responsive and offers various vacation packages.
 - [Admin Dashboard UI](https://admin-dashboard-vert-tau.vercel.app/)
 ###### React.js admin dashboard UI using Typescript.
 - [Course Selling React](https://smarterdev.vercel.app/)
