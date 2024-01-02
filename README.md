@@ -22,8 +22,6 @@ Take a look at some of my projects:
 ###### This is a simple html/css/js mini-project. This website has a login modal, is fully mobile responsive, has a greate and functional hamburger menu and the dark mode which is one of the most famous features is also added to this project. you can take a look at the project using the link above.
 - [Fitness App](https://fitnessapp-wine.vercel.app/)
 ###### This is gym website with React + Typescript in order to see some offers, courses and so on. For styling I used tailwindcss.
-- [Portfolio](https://portfolio2-nu-opal.vercel.app/)
-###### Portfolio web with next.js + page routing + framer motion (The project is not done ...)
 
 
 
