@@ -12,6 +12,8 @@ Take a look at some of my projects:
 ###### A simple portfolio next.js (v.14) with routing.
 - [Booking Vacation](https://booking-theta-two.vercel.app/)
 ###### This React Website is made with SCSS. It's fully responsive and offers various vacation packages.
+- [Coffee House | Order Coffee Online](https://coffeehouse-three.vercel.app/)
+###### This is a sample next.js website in which you can register & login and order coffee & food. You can also reserve a place in the coffee house and use their facilities such as the game room, study room etc.
 - [Admin Dashboard UI](https://admin-dashboard-vert-tau.vercel.app/)
 ###### React.js admin dashboard UI using Typescript.
 - [Course Selling React](https://smarterdev.vercel.app/)
